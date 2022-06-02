@@ -2,23 +2,23 @@ import React from 'react';
 
 function ObjectMapping() {
   const objectOfMembers = {
-    'Melvin Chia': {
+    Melvin: {
       age: '16',
       lovedColor: 'yellow',
     },
-    Jiahuiiiii: {
+    Adam: {
       age: '15',
       lovedColor: 'green',
     },
-    Henry: {
+    Frank: {
       age: '15',
       lovedColor: 'blue',
     },
-    YiChang: {
+    Charlie: {
       age: '15',
       lovedColor: 'red',
     },
-    ZhaoDong: {
+    Spark: {
       age: '15',
       lovedColor: 'purple',
     },
